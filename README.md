@@ -28,4 +28,4 @@ _No support / updates will be provided for this module (the code is provided "as
 ### start2
 - Begins the Anya quest line.
 
-You can look up [the rest of the commands](link-placeholder) yourself.
+You can look up [the rest of the commands](https://github.com/CattaLol/auto-tutorial/blob/b36fb690c9f458a99f48eb314f5e5ae4455c2ca7/index.js#L214) yourself.
